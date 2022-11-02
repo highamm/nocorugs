@@ -1,0 +1,1220 @@
+major,year,n_majors,n_graduates
+Biochemistry,2000,0,425
+Biochemistry,2001,0,400
+Biochemistry,2002,0,408
+Biochemistry,2003,2,452
+Biochemistry,2004,1,510
+Biochemistry,2005,2,434
+Biochemistry,2006,6,510
+Biochemistry,2007,5,500
+Biochemistry,2008,8,500
+Biochemistry,2009,3,444
+Biochemistry,2010,7,521
+Biochemistry,2011,2,541
+Biochemistry,2012,7,562
+Biochemistry,2013,8,534
+Biochemistry,2014,9,543
+Biochemistry,2015,6,585
+Biochemistry,2016,4,559
+Biochemistry,2017,5,574
+Biochemistry,2018,3,512
+Biochemistry,2019,7,573
+Biochemistry,2020,2,514
+Biochemistry,2021,4,532
+Biochemistry,2022,6,517
+Biology,2000,57,425
+Biology,2001,36,400
+Biology,2002,36,408
+Biology,2003,40,452
+Biology,2004,36,510
+Biology,2005,29,434
+Biology,2006,43,510
+Biology,2007,28,500
+Biology,2008,41,500
+Biology,2009,31,444
+Biology,2010,34,521
+Biology,2011,37,541
+Biology,2012,50,562
+Biology,2013,45,534
+Biology,2014,46,543
+Biology,2015,52,585
+Biology,2016,46,559
+Biology,2017,40,574
+Biology,2018,36,512
+Biology,2019,53,573
+Biology,2020,37,514
+Biology,2021,43,532
+Biology,2022,40,517
+Biology-Physics,2000,1,425
+Biology-Physics,2001,1,400
+Biology-Physics,2002,0,408
+Biology-Physics,2003,1,452
+Biology-Physics,2004,0,510
+Biology-Physics,2005,1,434
+Biology-Physics,2006,0,510
+Biology-Physics,2007,0,500
+Biology-Physics,2008,0,500
+Biology-Physics,2009,0,444
+Biology-Physics,2010,1,521
+Biology-Physics,2011,0,541
+Biology-Physics,2012,1,562
+Biology-Physics,2013,0,534
+Biology-Physics,2014,0,543
+Biology-Physics,2015,1,585
+Biology-Physics,2016,0,559
+Biology-Physics,2017,0,574
+Biology-Physics,2018,3,512
+Biology-Physics,2019,0,573
+Biology-Physics,2020,1,514
+Biology-Physics,2021,2,532
+Biology-Physics,2022,0,517
+Chemistry,2000,3,425
+Chemistry,2001,3,400
+Chemistry,2002,5,408
+Chemistry,2003,6,452
+Chemistry,2004,6,510
+Chemistry,2005,3,434
+Chemistry,2006,3,510
+Chemistry,2007,3,500
+Chemistry,2008,6,500
+Chemistry,2009,7,444
+Chemistry,2010,12,521
+Chemistry,2011,8,541
+Chemistry,2012,4,562
+Chemistry,2013,8,534
+Chemistry,2014,11,543
+Chemistry,2015,5,585
+Chemistry,2016,6,559
+Chemistry,2017,11,574
+Chemistry,2018,12,512
+Chemistry,2019,6,573
+Chemistry,2020,10,514
+Chemistry,2021,9,532
+Chemistry,2022,4,517
+Computer Science,2000,2,425
+Computer Science,2001,2,400
+Computer Science,2002,2,408
+Computer Science,2003,3,452
+Computer Science,2004,3,510
+Computer Science,2005,3,434
+Computer Science,2006,9,510
+Computer Science,2007,10,500
+Computer Science,2008,4,500
+Computer Science,2009,8,444
+Computer Science,2010,13,521
+Computer Science,2011,5,541
+Computer Science,2012,4,562
+Computer Science,2013,8,534
+Computer Science,2014,12,543
+Computer Science,2015,8,585
+Computer Science,2016,10,559
+Computer Science,2017,18,574
+Computer Science,2018,6,512
+Computer Science,2019,26,573
+Computer Science,2020,15,514
+Computer Science,2021,12,532
+Computer Science,2022,12,517
+Geology,2000,10,425
+Geology,2001,8,400
+Geology,2002,7,408
+Geology,2003,11,452
+Geology,2004,7,510
+Geology,2005,15,434
+Geology,2006,10,510
+Geology,2007,7,500
+Geology,2008,15,500
+Geology,2009,4,444
+Geology,2010,7,521
+Geology,2011,9,541
+Geology,2012,5,562
+Geology,2013,12,534
+Geology,2014,24,543
+Geology,2015,16,585
+Geology,2016,15,559
+Geology,2017,10,574
+Geology,2018,12,512
+Geology,2019,16,573
+Geology,2020,8,514
+Geology,2021,12,532
+Geology,2022,9,517
+Geology-Physics,2000,0,425
+Geology-Physics,2001,0,400
+Geology-Physics,2002,0,408
+Geology-Physics,2003,1,452
+Geology-Physics,2004,0,510
+Geology-Physics,2005,0,434
+Geology-Physics,2006,1,510
+Geology-Physics,2007,0,500
+Geology-Physics,2008,0,500
+Geology-Physics,2009,0,444
+Geology-Physics,2010,0,521
+Geology-Physics,2011,0,541
+Geology-Physics,2012,0,562
+Geology-Physics,2013,0,534
+Geology-Physics,2014,0,543
+Geology-Physics,2015,0,585
+Geology-Physics,2016,1,559
+Geology-Physics,2017,0,574
+Geology-Physics,2018,0,512
+Geology-Physics,2019,0,573
+Geology-Physics,2020,0,514
+Geology-Physics,2021,0,532
+Geology-Physics,2022,0,517
+Math-Computer Science*,2000,2,425
+Math-Computer Science*,2001,3,400
+Math-Computer Science*,2002,3,408
+Math-Computer Science*,2003,1,452
+Math-Computer Science*,2004,2,510
+Math-Computer Science*,2005,0,434
+Math-Computer Science*,2006,1,510
+Math-Computer Science*,2007,0,500
+Math-Computer Science*,2008,0,500
+Math-Computer Science*,2009,0,444
+Math-Computer Science*,2010,1,521
+Math-Computer Science*,2011,0,541
+Math-Computer Science*,2012,0,562
+Math-Computer Science*,2013,0,534
+Math-Computer Science*,2014,0,543
+Math-Computer Science*,2015,0,585
+Math-Computer Science*,2016,0,559
+Math-Computer Science*,2017,0,574
+Math-Computer Science*,2018,0,512
+Math-Computer Science*,2019,0,573
+Math-Computer Science*,2020,0,514
+Math-Computer Science*,2021,0,532
+Math-Computer Science*,2022,0,517
+Mathematics,2000,16,425
+Mathematics,2001,8,400
+Mathematics,2002,13,408
+Mathematics,2003,24,452
+Mathematics,2004,27,510
+Mathematics,2005,26,434
+Mathematics,2006,36,510
+Mathematics,2007,28,500
+Mathematics,2008,31,500
+Mathematics,2009,31,444
+Mathematics,2010,36,521
+Mathematics,2011,20,541
+Mathematics,2012,36,562
+Mathematics,2013,30,534
+Mathematics,2014,41,543
+Mathematics,2015,30,585
+Mathematics,2016,38,559
+Mathematics,2017,34,574
+Mathematics,2018,23,512
+Mathematics,2019,31,573
+Mathematics,2020,30,514
+Mathematics,2021,25,532
+Mathematics,2022,22,517
+Neuroscience,2000,0,425
+Neuroscience,2001,0,400
+Neuroscience,2002,0,408
+Neuroscience,2003,7,452
+Neuroscience,2004,10,510
+Neuroscience,2005,15,434
+Neuroscience,2006,11,510
+Neuroscience,2007,11,500
+Neuroscience,2008,14,500
+Neuroscience,2009,16,444
+Neuroscience,2010,5,521
+Neuroscience,2011,9,541
+Neuroscience,2012,15,562
+Neuroscience,2013,16,534
+Neuroscience,2014,27,543
+Neuroscience,2015,18,585
+Neuroscience,2016,15,559
+Neuroscience,2017,21,574
+Neuroscience,2018,13,512
+Neuroscience,2019,17,573
+Neuroscience,2020,16,514
+Neuroscience,2021,12,532
+Neuroscience,2022,15,517
+Physics,2000,3,425
+Physics,2001,3,400
+Physics,2002,5,408
+Physics,2003,3,452
+Physics,2004,6,510
+Physics,2005,2,434
+Physics,2006,5,510
+Physics,2007,5,500
+Physics,2008,6,500
+Physics,2009,3,444
+Physics,2010,6,521
+Physics,2011,4,541
+Physics,2012,5,562
+Physics,2013,7,534
+Physics,2014,2,543
+Physics,2015,5,585
+Physics,2016,4,559
+Physics,2017,4,574
+Physics,2018,3,512
+Physics,2019,4,573
+Physics,2020,6,514
+Physics,2021,7,532
+Physics,2022,8,517
+Pre-Dental*,2000,0,425
+Pre-Dental*,2001,0,400
+Pre-Dental*,2002,0,408
+Pre-Dental*,2003,0,452
+Pre-Dental*,2004,0,510
+Pre-Dental*,2005,0,434
+Pre-Dental*,2006,0,510
+Pre-Dental*,2007,0,500
+Pre-Dental*,2008,0,500
+Pre-Dental*,2009,0,444
+Pre-Dental*,2010,0,521
+Pre-Dental*,2011,0,541
+Pre-Dental*,2012,0,562
+Pre-Dental*,2013,0,534
+Pre-Dental*,2014,0,543
+Pre-Dental*,2015,0,585
+Pre-Dental*,2016,0,559
+Pre-Dental*,2017,0,574
+Pre-Dental*,2018,0,512
+Pre-Dental*,2019,0,573
+Pre-Dental*,2020,0,514
+Pre-Dental*,2021,0,532
+Pre-Dental*,2022,0,517
+Pre-Engineering*,2000,0,425
+Pre-Engineering*,2001,0,400
+Pre-Engineering*,2002,0,408
+Pre-Engineering*,2003,0,452
+Pre-Engineering*,2004,0,510
+Pre-Engineering*,2005,0,434
+Pre-Engineering*,2006,0,510
+Pre-Engineering*,2007,0,500
+Pre-Engineering*,2008,0,500
+Pre-Engineering*,2009,0,444
+Pre-Engineering*,2010,0,521
+Pre-Engineering*,2011,0,541
+Pre-Engineering*,2012,0,562
+Pre-Engineering*,2013,0,534
+Pre-Engineering*,2014,0,543
+Pre-Engineering*,2015,0,585
+Pre-Engineering*,2016,0,559
+Pre-Engineering*,2017,0,574
+Pre-Engineering*,2018,0,512
+Pre-Engineering*,2019,0,573
+Pre-Engineering*,2020,0,514
+Pre-Engineering*,2021,0,532
+Pre-Engineering*,2022,0,517
+Pre-Medical*,2000,0,425
+Pre-Medical*,2001,0,400
+Pre-Medical*,2002,0,408
+Pre-Medical*,2003,0,452
+Pre-Medical*,2004,0,510
+Pre-Medical*,2005,0,434
+Pre-Medical*,2006,0,510
+Pre-Medical*,2007,0,500
+Pre-Medical*,2008,0,500
+Pre-Medical*,2009,0,444
+Pre-Medical*,2010,0,521
+Pre-Medical*,2011,0,541
+Pre-Medical*,2012,0,562
+Pre-Medical*,2013,0,534
+Pre-Medical*,2014,0,543
+Pre-Medical*,2015,0,585
+Pre-Medical*,2016,0,559
+Pre-Medical*,2017,0,574
+Pre-Medical*,2018,0,512
+Pre-Medical*,2019,0,573
+Pre-Medical*,2020,0,514
+Pre-Medical*,2021,0,532
+Pre-Medical*,2022,0,517
+Psychology,2000,45,425
+Psychology,2001,60,400
+Psychology,2002,56,408
+Psychology,2003,51,452
+Psychology,2004,81,510
+Psychology,2005,59,434
+Psychology,2006,75,510
+Psychology,2007,76,500
+Psychology,2008,56,500
+Psychology,2009,76,444
+Psychology,2010,77,521
+Psychology,2011,82,541
+Psychology,2012,65,562
+Psychology,2013,71,534
+Psychology,2014,51,543
+Psychology,2015,71,585
+Psychology,2016,67,559
+Psychology,2017,60,574
+Psychology,2018,57,512
+Psychology,2019,85,573
+Psychology,2020,53,514
+Psychology,2021,73,532
+Psychology,2022,66,517
+Statistics,2000,0,425
+Statistics,2001,0,400
+Statistics,2002,0,408
+Statistics,2003,0,452
+Statistics,2004,0,510
+Statistics,2005,0,434
+Statistics,2006,0,510
+Statistics,2007,0,500
+Statistics,2008,0,500
+Statistics,2009,0,444
+Statistics,2010,0,521
+Statistics,2011,0,541
+Statistics,2012,0,562
+Statistics,2013,0,534
+Statistics,2014,0,543
+Statistics,2015,0,585
+Statistics,2016,4,559
+Statistics,2017,10,574
+Statistics,2018,8,512
+Statistics,2019,15,573
+Statistics,2020,20,514
+Statistics,2021,13,532
+Statistics,2022,21,517
+Anthropology,2000,7,425
+Anthropology,2001,8,400
+Anthropology,2002,6,408
+Anthropology,2003,9,452
+Anthropology,2004,12,510
+Anthropology,2005,5,434
+Anthropology,2006,6,510
+Anthropology,2007,6,500
+Anthropology,2008,13,500
+Anthropology,2009,10,444
+Anthropology,2010,4,521
+Anthropology,2011,8,541
+Anthropology,2012,22,562
+Anthropology,2013,12,534
+Anthropology,2014,8,543
+Anthropology,2015,14,585
+Anthropology,2016,15,559
+Anthropology,2017,6,574
+Anthropology,2018,5,512
+Anthropology,2019,9,573
+Anthropology,2020,19,514
+Anthropology,2021,9,532
+Anthropology,2022,12,517
+Business Administration*,2000,0,425
+Business Administration*,2001,0,400
+Business Administration*,2002,0,408
+Business Administration*,2003,0,452
+Business Administration*,2004,0,510
+Business Administration*,2005,0,434
+Business Administration*,2006,0,510
+Business Administration*,2007,0,500
+Business Administration*,2008,0,500
+Business Administration*,2009,0,444
+Business Administration*,2010,0,521
+Business Administration*,2011,0,541
+Business Administration*,2012,0,562
+Business Administration*,2013,0,534
+Business Administration*,2014,0,543
+Business Administration*,2015,0,585
+Business Administration*,2016,0,559
+Business Administration*,2017,0,574
+Business Administration*,2018,0,512
+Business Administration*,2019,0,573
+Business Administration*,2020,0,514
+Business Administration*,2021,NA,532
+Business Administration*,2022,NA,517
+Economics,2000,52,425
+Economics,2001,46,400
+Economics,2002,57,408
+Economics,2003,55,452
+Economics,2004,51,510
+Economics,2005,39,434
+Economics,2006,63,510
+Economics,2007,53,500
+Economics,2008,68,500
+Economics,2009,54,444
+Economics,2010,59,521
+Economics,2011,57,541
+Economics,2012,69,562
+Economics,2013,56,534
+Economics,2014,81,543
+Economics,2015,91,585
+Economics,2016,82,559
+Economics,2017,101,574
+Economics,2018,106,512
+Economics,2019,97,573
+Economics,2020,70,514
+Economics,2021,79,532
+Economics,2022,69,517
+Geography*,2000,0,425
+Geography*,2001,0,400
+Geography*,2002,0,408
+Geography*,2003,0,452
+Geography*,2004,0,510
+Geography*,2005,0,434
+Geography*,2006,0,510
+Geography*,2007,0,500
+Geography*,2008,0,500
+Geography*,2009,0,444
+Geography*,2010,0,521
+Geography*,2011,0,541
+Geography*,2012,0,562
+Geography*,2013,0,534
+Geography*,2014,0,543
+Geography*,2015,0,585
+Geography*,2016,0,559
+Geography*,2017,NA,574
+Geography*,2018,0,512
+Geography*,2019,0,573
+Geography*,2020,0,514
+Geography*,2021,NA,532
+Geography*,2022,NA,517
+Government,2000,43,425
+Government,2001,47,400
+Government,2002,41,408
+Government,2003,53,452
+Government,2004,71,510
+Government,2005,54,434
+Government,2006,64,510
+Government,2007,68,500
+Government,2008,61,500
+Government,2009,41,444
+Government,2010,38,521
+Government,2011,51,541
+Government,2012,68,562
+Government,2013,45,534
+Government,2014,40,543
+Government,2015,53,585
+Government,2016,42,559
+Government,2017,52,574
+Government,2018,42,512
+Government,2019,55,573
+Government,2020,43,514
+Government,2021,67,532
+Government,2022,55,517
+Pre-Law*,2000,0,425
+Pre-Law*,2001,0,400
+Pre-Law*,2002,0,408
+Pre-Law*,2003,0,452
+Pre-Law*,2004,0,510
+Pre-Law*,2005,0,434
+Pre-Law*,2006,0,510
+Pre-Law*,2007,0,500
+Pre-Law*,2008,0,500
+Pre-Law*,2009,0,444
+Pre-Law*,2010,0,521
+Pre-Law*,2011,0,541
+Pre-Law*,2012,0,562
+Pre-Law*,2013,0,534
+Pre-Law*,2014,0,543
+Pre-Law*,2015,0,585
+Pre-Law*,2016,0,559
+Pre-Law*,2017,0,574
+Pre-Law*,2018,0,512
+Pre-Law*,2019,0,573
+Pre-Law*,2020,0,514
+Pre-Law*,2021,NA,532
+Pre-Law*,2022,NA,517
+Sociology,2000,31,425
+Sociology,2001,36,400
+Sociology,2002,41,408
+Sociology,2003,35,452
+Sociology,2004,32,510
+Sociology,2005,22,434
+Sociology,2006,31,510
+Sociology,2007,39,500
+Sociology,2008,30,500
+Sociology,2009,19,444
+Sociology,2010,25,521
+Sociology,2011,27,541
+Sociology,2012,23,562
+Sociology,2013,37,534
+Sociology,2014,20,543
+Sociology,2015,28,585
+Sociology,2016,29,559
+Sociology,2017,35,574
+Sociology,2018,14,512
+Sociology,2019,15,573
+Sociology,2020,21,514
+Sociology,2021,20,532
+Sociology,2022,20,517
+English,2000,55,425
+English,2001,50,400
+English,2002,53,408
+English,2003,54,452
+English,2004,85,510
+English,2005,61,434
+English,2006,74,510
+English,2007,48,500
+English,2008,43,500
+English,2009,33,444
+English,2010,61,521
+English,2011,55,541
+English,2012,57,562
+English,2013,30,534
+English,2014,34,543
+English,2015,49,585
+English,2016,32,559
+English,2017,30,574
+English,2018,31,512
+English,2019,40,573
+English,2020,41,514
+English,2021,33,532
+English,2022,36,517
+Estudios Hispanicos (Spanish),2000,10,425
+Estudios Hispanicos (Spanish),2001,3,400
+Estudios Hispanicos (Spanish),2002,9,408
+Estudios Hispanicos (Spanish),2003,16,452
+Estudios Hispanicos (Spanish),2004,10,510
+Estudios Hispanicos (Spanish),2005,9,434
+Estudios Hispanicos (Spanish),2006,7,510
+Estudios Hispanicos (Spanish),2007,21,500
+Estudios Hispanicos (Spanish),2008,14,500
+Estudios Hispanicos (Spanish),2009,16,444
+Estudios Hispanicos (Spanish),2010,14,521
+Estudios Hispanicos (Spanish),2011,15,541
+Estudios Hispanicos (Spanish),2012,16,562
+Estudios Hispanicos (Spanish),2013,11,534
+Estudios Hispanicos (Spanish),2014,12,543
+Estudios Hispanicos (Spanish),2015,14,585
+Estudios Hispanicos (Spanish),2016,11,559
+Estudios Hispanicos (Spanish),2017,12,574
+Estudios Hispanicos (Spanish),2018,6,512
+Estudios Hispanicos (Spanish),2019,2,573
+Estudios Hispanicos (Spanish),2020,3,514
+Estudios Hispanicos (Spanish),2021,5,532
+Estudios Hispanicos (Spanish),2022,6,517
+Francophone Studies (French),2000,4,425
+Francophone Studies (French),2001,14,400
+Francophone Studies (French),2002,10,408
+Francophone Studies (French),2003,3,452
+Francophone Studies (French),2004,9,510
+Francophone Studies (French),2005,3,434
+Francophone Studies (French),2006,9,510
+Francophone Studies (French),2007,10,500
+Francophone Studies (French),2008,17,500
+Francophone Studies (French),2009,7,444
+Francophone Studies (French),2010,12,521
+Francophone Studies (French),2011,10,541
+Francophone Studies (French),2012,9,562
+Francophone Studies (French),2013,8,534
+Francophone Studies (French),2014,11,543
+Francophone Studies (French),2015,15,585
+Francophone Studies (French),2016,5,559
+Francophone Studies (French),2017,7,574
+Francophone Studies (French),2018,1,512
+Francophone Studies (French),2019,7,573
+Francophone Studies (French),2020,5,514
+Francophone Studies (French),2021,12,532
+Francophone Studies (French),2022,4,517
+German*,2000,3,425
+German*,2001,1,400
+German*,2002,0,408
+German*,2003,1,452
+German*,2004,0,510
+German*,2005,3,434
+German*,2006,0,510
+German*,2007,2,500
+German*,2008,3,500
+German*,2009,0,444
+German*,2010,1,521
+German*,2011,3,541
+German*,2012,2,562
+German*,2013,2,534
+German*,2014,2,543
+German*,2015,1,585
+German*,2016,0,559
+German*,2017,0,574
+German*,2018,0,512
+German*,2019,0,573
+German*,2020,0,514
+German*,2021,0,532
+German*,2022,0,517
+History,2000,24,425
+History,2001,30,400
+History,2002,26,408
+History,2003,36,452
+History,2004,50,510
+History,2005,38,434
+History,2006,42,510
+History,2007,45,500
+History,2008,51,500
+History,2009,26,444
+History,2010,47,521
+History,2011,29,541
+History,2012,38,562
+History,2013,34,534
+History,2014,34,543
+History,2015,39,585
+History,2016,29,559
+History,2017,35,574
+History,2018,19,512
+History,2019,22,573
+History,2020,26,514
+History,2021,23,532
+History,2022,19,517
+Multi-language,2000,3,425
+Multi-language,2001,1,400
+Multi-language,2002,2,408
+Multi-language,2003,4,452
+Multi-language,2004,3,510
+Multi-language,2005,2,434
+Multi-language,2006,0,510
+Multi-language,2007,5,500
+Multi-language,2008,1,500
+Multi-language,2009,1,444
+Multi-language,2010,0,521
+Multi-language,2011,1,541
+Multi-language,2012,3,562
+Multi-language,2013,7,534
+Multi-language,2014,3,543
+Multi-language,2015,5,585
+Multi-language,2016,5,559
+Multi-language,2017,4,574
+Multi-language,2018,2,512
+Multi-language,2019,3,573
+Multi-language,2020,3,514
+Multi-language,2021,2,532
+Multi-language,2022,2,517
+Philosophy,2000,4,425
+Philosophy,2001,5,400
+Philosophy,2002,14,408
+Philosophy,2003,14,452
+Philosophy,2004,5,510
+Philosophy,2005,4,434
+Philosophy,2006,2,510
+Philosophy,2007,8,500
+Philosophy,2008,8,500
+Philosophy,2009,4,444
+Philosophy,2010,5,521
+Philosophy,2011,8,541
+Philosophy,2012,6,562
+Philosophy,2013,14,534
+Philosophy,2014,11,543
+Philosophy,2015,16,585
+Philosophy,2016,11,559
+Philosophy,2017,13,574
+Philosophy,2018,5,512
+Philosophy,2019,8,573
+Philosophy,2020,7,514
+Philosophy,2021,11,532
+Philosophy,2022,14,517
+Philosophy-Religion*,2000,0,425
+Philosophy-Religion*,2001,0,400
+Philosophy-Religion*,2002,0,408
+Philosophy-Religion*,2003,0,452
+Philosophy-Religion*,2004,0,510
+Philosophy-Religion*,2005,0,434
+Philosophy-Religion*,2006,0,510
+Philosophy-Religion*,2007,0,500
+Philosophy-Religion*,2008,0,500
+Philosophy-Religion*,2009,0,444
+Philosophy-Religion*,2010,0,521
+Philosophy-Religion*,2011,0,541
+Philosophy-Religion*,2012,0,562
+Philosophy-Religion*,2013,0,534
+Philosophy-Religion*,2014,0,543
+Philosophy-Religion*,2015,0,585
+Philosophy-Religion*,2016,0,559
+Philosophy-Religion*,2017,0,574
+Philosophy-Religion*,2018,0,512
+Philosophy-Religion*,2019,0,573
+Philosophy-Religion*,2020,0,514
+Philosophy-Religion*,2021,NA,532
+Philosophy-Religion*,2022,NA,517
+Religious Studies,2000,10,425
+Religious Studies,2001,3,400
+Religious Studies,2002,7,408
+Religious Studies,2003,7,452
+Religious Studies,2004,2,510
+Religious Studies,2005,9,434
+Religious Studies,2006,8,510
+Religious Studies,2007,3,500
+Religious Studies,2008,2,500
+Religious Studies,2009,9,444
+Religious Studies,2010,2,521
+Religious Studies,2011,6,541
+Religious Studies,2012,4,562
+Religious Studies,2013,4,534
+Religious Studies,2014,2,543
+Religious Studies,2015,3,585
+Religious Studies,2016,2,559
+Religious Studies,2017,2,574
+Religious Studies,2018,3,512
+Religious Studies,2019,4,573
+Religious Studies,2020,2,514
+Religious Studies,2021,3,532
+Religious Studies,2022,1,517
+Theatre Arts*,2000,0,425
+Theatre Arts*,2001,0,400
+Theatre Arts*,2002,0,408
+Theatre Arts*,2003,0,452
+Theatre Arts*,2004,0,510
+Theatre Arts*,2005,0,434
+Theatre Arts*,2006,0,510
+Theatre Arts*,2007,0,500
+Theatre Arts*,2008,0,500
+Theatre Arts*,2009,0,444
+Theatre Arts*,2010,0,521
+Theatre Arts*,2011,0,541
+Theatre Arts*,2012,0,562
+Theatre Arts*,2013,0,534
+Theatre Arts*,2014,0,543
+Theatre Arts*,2015,0,585
+Theatre Arts*,2016,0,559
+Theatre Arts*,2017,0,574
+Theatre Arts*,2018,0,512
+Theatre Arts*,2019,0,573
+Theatre Arts*,2020,0,514
+Theatre Arts*,2021,NA,532
+Theatre Arts*,2022,NA,517
+Art and Art History (Fine Arts),2000,24,425
+Art and Art History (Fine Arts),2001,37,400
+Art and Art History (Fine Arts),2002,26,408
+Art and Art History (Fine Arts),2003,33,452
+Art and Art History (Fine Arts),2004,45,510
+Art and Art History (Fine Arts),2005,26,434
+Art and Art History (Fine Arts),2006,37,510
+Art and Art History (Fine Arts),2007,34,500
+Art and Art History (Fine Arts),2008,32,500
+Art and Art History (Fine Arts),2009,33,444
+Art and Art History (Fine Arts),2010,36,521
+Art and Art History (Fine Arts),2011,39,541
+Art and Art History (Fine Arts),2012,32,562
+Art and Art History (Fine Arts),2013,26,534
+Art and Art History (Fine Arts),2014,15,543
+Art and Art History (Fine Arts),2015,12,585
+Art and Art History (Fine Arts),2016,23,559
+Art and Art History (Fine Arts),2017,15,574
+Art and Art History (Fine Arts),2018,13,512
+Art and Art History (Fine Arts),2019,15,573
+Art and Art History (Fine Arts),2020,12,514
+Art and Art History (Fine Arts),2021,18,532
+Art and Art History (Fine Arts),2022,17,517
+Music,2000,5,425
+Music,2001,3,400
+Music,2002,5,408
+Music,2003,5,452
+Music,2004,9,510
+Music,2005,3,434
+Music,2006,6,510
+Music,2007,9,500
+Music,2008,3,500
+Music,2009,6,444
+Music,2010,8,521
+Music,2011,5,541
+Music,2012,8,562
+Music,2013,11,534
+Music,2014,5,543
+Music,2015,9,585
+Music,2016,6,559
+Music,2017,10,574
+Music,2018,4,512
+Music,2019,5,573
+Music,2020,6,514
+Music,2021,2,532
+Music,2022,11,517
+Perform. & Communication Arts**,2000,8,425
+Perform. & Communication Arts**,2001,10,400
+Perform. & Communication Arts**,2002,10,408
+Perform. & Communication Arts**,2003,14,452
+Perform. & Communication Arts**,2004,19,510
+Perform. & Communication Arts**,2005,9,434
+Perform. & Communication Arts**,2006,11,510
+Perform. & Communication Arts**,2007,16,500
+Perform. & Communication Arts**,2008,20,500
+Perform. & Communication Arts**,2009,18,444
+Perform. & Communication Arts**,2010,34,521
+Perform. & Communication Arts**,2011,34,541
+Perform. & Communication Arts**,2012,27,562
+Perform. & Communication Arts**,2013,39,534
+Perform. & Communication Arts**,2014,38,543
+Perform. & Communication Arts**,2015,37,585
+Perform. & Communication Arts**,2016,43,559
+Perform. & Communication Arts**,2017,37,574
+Perform. & Communication Arts**,2018,43,512
+Perform. & Communication Arts**,2019,37,573
+Perform. & Communication Arts**,2020,54,514
+Perform. & Communication Arts**,2021,31,532
+Perform. & Communication Arts**,2022,55,517
+African Studies (Combined),2000,3,425
+African Studies (Combined),2001,1,400
+African Studies (Combined),2002,1,408
+African Studies (Combined),2003,1,452
+African Studies (Combined),2004,0,510
+African Studies (Combined),2005,0,434
+African Studies (Combined),2006,3,510
+African Studies (Combined),2007,3,500
+African Studies (Combined),2008,2,500
+African Studies (Combined),2009,2,444
+African Studies (Combined),2010,1,521
+African Studies (Combined),2011,7,541
+African Studies (Combined),2012,6,562
+African Studies (Combined),2013,2,534
+African Studies (Combined),2014,6,543
+African Studies (Combined),2015,8,585
+African Studies (Combined),2016,5,559
+African Studies (Combined),2017,4,574
+African Studies (Combined),2018,5,512
+African Studies (Combined),2019,6,573
+African Studies (Combined),2020,4,514
+African Studies (Combined),2021,2,532
+African Studies (Combined),2022,0,517
+Asian Studies (Combined),2000,1,425
+Asian Studies (Combined),2001,4,400
+Asian Studies (Combined),2002,1,408
+Asian Studies (Combined),2003,0,452
+Asian Studies (Combined),2004,2,510
+Asian Studies (Combined),2005,0,434
+Asian Studies (Combined),2006,0,510
+Asian Studies (Combined),2007,2,500
+Asian Studies (Combined),2008,2,500
+Asian Studies (Combined),2009,0,444
+Asian Studies (Combined),2010,3,521
+Asian Studies (Combined),2011,3,541
+Asian Studies (Combined),2012,4,562
+Asian Studies (Combined),2013,3,534
+Asian Studies (Combined),2014,1,543
+Asian Studies (Combined),2015,4,585
+Asian Studies (Combined),2016,1,559
+Asian Studies (Combined),2017,1,574
+Asian Studies (Combined),2018,1,512
+Asian Studies (Combined),2019,0,573
+Asian Studies (Combined),2020,1,514
+Asian Studies (Combined),2021,0,532
+Asian Studies (Combined),2022,1,517
+Business in the Liberal Arts,2000,0,425
+Business in the Liberal Arts,2001,0,400
+Business in the Liberal Arts,2002,0,408
+Business in the Liberal Arts,2003,0,452
+Business in the Liberal Arts,2004,0,510
+Business in the Liberal Arts,2005,0,434
+Business in the Liberal Arts,2006,0,510
+Business in the Liberal Arts,2007,0,500
+Business in the Liberal Arts,2008,0,500
+Business in the Liberal Arts,2009,0,444
+Business in the Liberal Arts,2010,0,521
+Business in the Liberal Arts,2011,0,541
+Business in the Liberal Arts,2012,0,562
+Business in the Liberal Arts,2013,0,534
+Business in the Liberal Arts,2014,3,543
+Business in the Liberal Arts,2015,26,585
+Business in the Liberal Arts,2016,51,559
+Business in the Liberal Arts,2017,105,574
+Business in the Liberal Arts,2018,107,512
+Business in the Liberal Arts,2019,95,573
+Business in the Liberal Arts,2020,90,514
+Business in the Liberal Arts,2021,91,532
+Business in the Liberal Arts,2022,91,517
+Canadian Studies (Combined),2000,3,425
+Canadian Studies (Combined),2001,1,400
+Canadian Studies (Combined),2002,5,408
+Canadian Studies (Combined),2003,0,452
+Canadian Studies (Combined),2004,2,510
+Canadian Studies (Combined),2005,1,434
+Canadian Studies (Combined),2006,1,510
+Canadian Studies (Combined),2007,2,500
+Canadian Studies (Combined),2008,1,500
+Canadian Studies (Combined),2009,0,444
+Canadian Studies (Combined),2010,1,521
+Canadian Studies (Combined),2011,0,541
+Canadian Studies (Combined),2012,1,562
+Canadian Studies (Combined),2013,0,534
+Canadian Studies (Combined),2014,2,543
+Canadian Studies (Combined),2015,0,585
+Canadian Studies (Combined),2016,0,559
+Canadian Studies (Combined),2017,3,574
+Canadian Studies (Combined),2018,1,512
+Canadian Studies (Combined),2019,1,573
+Canadian Studies (Combined),2020,1,514
+Canadian Studies (Combined),2021,1,532
+Canadian Studies (Combined),2022,0,517
+Conservation Biology,2000,0,425
+Conservation Biology,2001,0,400
+Conservation Biology,2002,0,408
+Conservation Biology,2003,0,452
+Conservation Biology,2004,0,510
+Conservation Biology,2005,0,434
+Conservation Biology,2006,0,510
+Conservation Biology,2007,0,500
+Conservation Biology,2008,0,500
+Conservation Biology,2009,2,444
+Conservation Biology,2010,9,521
+Conservation Biology,2011,7,541
+Conservation Biology,2012,14,562
+Conservation Biology,2013,12,534
+Conservation Biology,2014,8,543
+Conservation Biology,2015,13,585
+Conservation Biology,2016,12,559
+Conservation Biology,2017,9,574
+Conservation Biology,2018,12,512
+Conservation Biology,2019,10,573
+Conservation Biology,2020,16,514
+Conservation Biology,2021,13,532
+Conservation Biology,2022,4,517
+Economics/Math (BA),2000,0,425
+Economics/Math (BA),2001,0,400
+Economics/Math (BA),2002,0,408
+Economics/Math (BA),2003,0,452
+Economics/Math (BA),2004,0,510
+Economics/Math (BA),2005,0,434
+Economics/Math (BA),2006,0,510
+Economics/Math (BA),2007,0,500
+Economics/Math (BA),2008,0,500
+Economics/Math (BA),2009,0,444
+Economics/Math (BA),2010,0,521
+Economics/Math (BA),2011,0,541
+Economics/Math (BA),2012,0,562
+Economics/Math (BA),2013,0,534
+Economics/Math (BA),2014,0,543
+Economics/Math (BA),2015,0,585
+Economics/Math (BA),2016,0,559
+Economics/Math (BA),2017,0,574
+Economics/Math (BA),2018,0,512
+Economics/Math (BA),2019,0,573
+Economics/Math (BA),2020,0,514
+Economics/Math (BA),2021,0,532
+Economics/Math (BA),2022,0,517
+Economics/Math (BS),2000,4,425
+Economics/Math (BS),2001,1,400
+Economics/Math (BS),2002,4,408
+Economics/Math (BS),2003,7,452
+Economics/Math (BS),2004,9,510
+Economics/Math (BS),2005,9,434
+Economics/Math (BS),2006,4,510
+Economics/Math (BS),2007,7,500
+Economics/Math (BS),2008,12,500
+Economics/Math (BS),2009,7,444
+Economics/Math (BS),2010,9,521
+Economics/Math (BS),2011,10,541
+Economics/Math (BS),2012,1,562
+Economics/Math (BS),2013,14,534
+Economics/Math (BS),2014,6,543
+Economics/Math (BS),2015,7,585
+Economics/Math (BS),2016,16,559
+Economics/Math (BS),2017,8,574
+Economics/Math (BS),2018,9,512
+Economics/Math (BS),2019,8,573
+Economics/Math (BS),2020,3,514
+Economics/Math (BS),2021,5,532
+Economics/Math (BS),2022,7,517
+English-Spanish,2000,NA,425
+English-Spanish,2001,NA,400
+English-Spanish,2002,NA,408
+English-Spanish,2003,NA,452
+English-Spanish,2004,NA,510
+English-Spanish,2005,NA,434
+English-Spanish,2006,NA,510
+English-Spanish,2007,NA,500
+English-Spanish,2008,0,500
+English-Spanish,2009,0,444
+English-Spanish,2010,0,521
+English-Spanish,2011,0,541
+English-Spanish,2012,0,562
+English-Spanish,2013,0,534
+English-Spanish,2014,0,543
+English-Spanish,2015,0,585
+English-Spanish,2016,0,559
+English-Spanish,2017,0,574
+English-Spanish,2018,0,512
+English-Spanish,2019,0,573
+English-Spanish,2020,0,514
+English-Spanish,2021,0,532
+English-Spanish,2022,2,517
+Environmental Studies,2000,0,425
+Environmental Studies,2001,5,400
+Environmental Studies,2002,3,408
+Environmental Studies,2003,8,452
+Environmental Studies,2004,9,510
+Environmental Studies,2005,9,434
+Environmental Studies,2006,20,510
+Environmental Studies,2007,10,500
+Environmental Studies,2008,18,500
+Environmental Studies,2009,20,444
+Environmental Studies,2010,14,521
+Environmental Studies,2011,20,541
+Environmental Studies,2012,22,562
+Environmental Studies,2013,18,534
+Environmental Studies,2014,13,543
+Environmental Studies,2015,10,585
+Environmental Studies,2016,15,559
+Environmental Studies,2017,14,574
+Environmental Studies,2018,11,512
+Environmental Studies,2019,15,573
+Environmental Studies,2020,19,514
+Environmental Studies,2021,25,532
+Environmental Studies,2022,17,517
+Env. Studies (BA) (Combined),2000,26,425
+Env. Studies (BA) (Combined),2001,10,400
+Env. Studies (BA) (Combined),2002,18,408
+Env. Studies (BA) (Combined),2003,12,452
+Env. Studies (BA) (Combined),2004,14,510
+Env. Studies (BA) (Combined),2005,10,434
+Env. Studies (BA) (Combined),2006,6,510
+Env. Studies (BA) (Combined),2007,12,500
+Env. Studies (BA) (Combined),2008,13,500
+Env. Studies (BA) (Combined),2009,15,444
+Env. Studies (BA) (Combined),2010,14,521
+Env. Studies (BA) (Combined),2011,20,541
+Env. Studies (BA) (Combined),2012,21,562
+Env. Studies (BA) (Combined),2013,17,534
+Env. Studies (BA) (Combined),2014,19,543
+Env. Studies (BA) (Combined),2015,22,585
+Env. Studies (BA) (Combined),2016,22,559
+Env. Studies (BA) (Combined),2017,22,574
+Env. Studies (BA) (Combined),2018,22,512
+Env. Studies (BA) (Combined),2019,20,573
+Env. Studies (BA) (Combined),2020,16,514
+Env. Studies (BA) (Combined),2021,19,532
+Env. Studies (BA) (Combined),2022,17,517
+Env. Studies (BS) (Combined),2000,14,425
+Env. Studies (BS) (Combined),2001,9,400
+Env. Studies (BS) (Combined),2002,8,408
+Env. Studies (BS) (Combined),2003,10,452
+Env. Studies (BS) (Combined),2004,8,510
+Env. Studies (BS) (Combined),2005,9,434
+Env. Studies (BS) (Combined),2006,5,510
+Env. Studies (BS) (Combined),2007,6,500
+Env. Studies (BS) (Combined),2008,4,500
+Env. Studies (BS) (Combined),2009,12,444
+Env. Studies (BS) (Combined),2010,9,521
+Env. Studies (BS) (Combined),2011,7,541
+Env. Studies (BS) (Combined),2012,7,562
+Env. Studies (BS) (Combined),2013,12,534
+Env. Studies (BS) (Combined),2014,11,543
+Env. Studies (BS) (Combined),2015,6,585
+Env. Studies (BS) (Combined),2016,5,559
+Env. Studies (BS) (Combined),2017,7,574
+Env. Studies (BS) (Combined),2018,10,512
+Env. Studies (BS) (Combined),2019,7,573
+Env. Studies (BS) (Combined),2020,8,514
+Env. Studies (BS) (Combined),2021,9,532
+Env. Studies (BS) (Combined),2022,12,517
+Global Studies,2000,0,425
+Global Studies,2001,0,400
+Global Studies,2002,0,408
+Global Studies,2003,5,452
+Global Studies,2004,5,510
+Global Studies,2005,14,434
+Global Studies,2006,9,510
+Global Studies,2007,9,500
+Global Studies,2008,13,500
+Global Studies,2009,11,444
+Global Studies,2010,9,521
+Global Studies,2011,25,541
+Global Studies,2012,21,562
+Global Studies,2013,18,534
+Global Studies,2014,22,543
+Global Studies,2015,20,585
+Global Studies,2016,19,559
+Global Studies,2017,19,574
+Global Studies,2018,26,512
+Global Studies,2019,13,573
+Global Studies,2020,24,514
+Global Studies,2021,22,532
+Global Studies,2022,21,517
+History-Lang (Combined),2000,NA,425
+History-Lang (Combined),2001,NA,400
+History-Lang (Combined),2002,NA,408
+History-Lang (Combined),2003,NA,452
+History-Lang (Combined),2004,NA,510
+History-Lang (Combined),2005,0,434
+History-Lang (Combined),2006,0,510
+History-Lang (Combined),2007,0,500
+History-Lang (Combined),2008,0,500
+History-Lang (Combined),2009,0,444
+History-Lang (Combined),2010,0,521
+History-Lang (Combined),2011,0,541
+History-Lang (Combined),2012,0,562
+History-Lang (Combined),2013,0,534
+History-Lang (Combined),2014,0,543
+History-Lang (Combined),2015,0,585
+History-Lang (Combined),2016,0,559
+History-Lang (Combined),2017,0,574
+History-Lang (Combined),2018,0,512
+History-Lang (Combined),2019,0,573
+History-Lang (Combined),2020,0,514
+History-Lang (Combined),2021,2,532
+History-Lang (Combined),2022,2,517
+Int'l Economics (Combined),2000,0,425
+Int'l Economics (Combined),2001,0,400
+Int'l Economics (Combined),2002,0,408
+Int'l Economics (Combined),2003,0,452
+Int'l Economics (Combined),2004,0,510
+Int'l Economics (Combined),2005,0,434
+Int'l Economics (Combined),2006,0,510
+Int'l Economics (Combined),2007,0,500
+Int'l Economics (Combined),2008,0,500
+Int'l Economics (Combined),2009,0,444
+Int'l Economics (Combined),2010,0,521
+Int'l Economics (Combined),2011,2,541
+Int'l Economics (Combined),2012,3,562
+Int'l Economics (Combined),2013,3,534
+Int'l Economics (Combined),2014,10,543
+Int'l Economics (Combined),2015,9,585
+Int'l Economics (Combined),2016,4,559
+Int'l Economics (Combined),2017,6,574
+Int'l Economics (Combined),2018,7,512
+Int'l Economics (Combined),2019,9,573
+Int'l Economics (Combined),2020,11,514
+Int'l Economics (Combined),2021,8,532
+Int'l Economics (Combined),2022,7,517
+Multi-field (BA),2000,6,425
+Multi-field (BA),2001,3,400
+Multi-field (BA),2002,2,408
+Multi-field (BA),2003,2,452
+Multi-field (BA),2004,3,510
+Multi-field (BA),2005,1,434
+Multi-field (BA),2006,1,510
+Multi-field (BA),2007,1,500
+Multi-field (BA),2008,2,500
+Multi-field (BA),2009,1,444
+Multi-field (BA),2010,1,521
+Multi-field (BA),2011,3,541
+Multi-field (BA),2012,2,562
+Multi-field (BA),2013,1,534
+Multi-field (BA),2014,4,543
+Multi-field (BA),2015,1,585
+Multi-field (BA),2016,4,559
+Multi-field (BA),2017,2,574
+Multi-field (BA),2018,2,512
+Multi-field (BA),2019,1,573
+Multi-field (BA),2020,3,514
+Multi-field (BA),2021,1,532
+Multi-field (BA),2022,1,517
+Multi-field (BS),2000,0,425
+Multi-field (BS),2001,0,400
+Multi-field (BS),2002,1,408
+Multi-field (BS),2003,0,452
+Multi-field (BS),2004,1,510
+Multi-field (BS),2005,1,434
+Multi-field (BS),2006,0,510
+Multi-field (BS),2007,0,500
+Multi-field (BS),2008,0,500
+Multi-field (BS),2009,0,444
+Multi-field (BS),2010,0,521
+Multi-field (BS),2011,2,541
+Multi-field (BS),2012,1,562
+Multi-field (BS),2013,1,534
+Multi-field (BS),2014,0,543
+Multi-field (BS),2015,1,585
+Multi-field (BS),2016,0,559
+Multi-field (BS),2017,1,574
+Multi-field (BS),2018,1,512
+Multi-field (BS),2019,1,573
+Multi-field (BS),2020,0,514
+Multi-field (BS),2021,0,532
+Multi-field (BS),2022,0,517
+Phys. Ed./SPLS*,2000,12,425
+Phys. Ed./SPLS*,2001,16,400
+Phys. Ed./SPLS*,2002,9,408
+Phys. Ed./SPLS*,2003,0,452
+Phys. Ed./SPLS*,2004,0,510
+Phys. Ed./SPLS*,2005,0,434
+Phys. Ed./SPLS*,2006,0,510
+Phys. Ed./SPLS*,2007,0,500
+Phys. Ed./SPLS*,2008,0,500
+Phys. Ed./SPLS*,2009,0,444
+Phys. Ed./SPLS*,2010,0,521
+Phys. Ed./SPLS*,2011,0,541
+Phys. Ed./SPLS*,2012,0,562
+Phys. Ed./SPLS*,2013,0,534
+Phys. Ed./SPLS*,2014,0,543
+Phys. Ed./SPLS*,2015,0,585
+Phys. Ed./SPLS*,2016,0,559
+Phys. Ed./SPLS*,2017,0,574
+Phys. Ed./SPLS*,2018,0,512
+Phys. Ed./SPLS*,2019,0,573
+Phys. Ed./SPLS*,2020,0,514
+Phys. Ed./SPLS*,2021,NA,532
+Phys. Ed./SPLS*,2022,NA,517
